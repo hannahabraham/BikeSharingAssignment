@@ -26,10 +26,10 @@ Significant variables to predict the demand for shared bikes
 - Temperature
 - Year 
 - Weather Situation(Light Snow and Rain , Misty)
-- Windspeed
-- Working Day 
-- Season(Winter,Summer)
-- Month(September)
+- Windspeed 
+- Season(Winter,Summer,Spring)
+- Month(September,July)
+- Weekday(Sunday)
 
 
 ## Technologies Used
